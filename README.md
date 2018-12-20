@@ -1,5 +1,36 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Estimated time to finish this project: 
+
+What is "humble shop"?
+    "humble shop" is a personalized shopping application that features personal self-designed products, such as shirts, jackets, and stickers. 
+
+What are the main installs?
+    This react project will include mainly redux, axios, bootstrap, react-router and redux-promise-middleware for the frontend Development. For the backend development: express, body-parser, express-session and massive. 
+
+    Redux will be key for containing state and allowing props to be passed throughout components easier. 
+    Axios will be used to make external and internal api calls.
+    Bootstrap will be featured mainly in the cart component, allowing for small pop-ups about the product, etc.
+    react-router will allow the react app to switch between various pages effortlessly, skiipping loading times and allowing the site to flow smoothly.
+
+What problems does the site solve?
+
+
+What is the target audience?
+
+
+What are the main components/ component tree?
+
+
+What are the main endpoints for the backend server? Include REST endpoints here.
+
+
+
+
+
+
+// Default README.md 
+
 ## Available Scripts
 
 In the project directory, you can run:
