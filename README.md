@@ -1,9 +1,21 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Estimated time to finish this project: 
 
+<h1> Humble Shop </h1>
+<hr>
 What is "humble shop"?
-    "humble shop" is a personalized shopping application that features personal self-designed products, such as shirts, jackets, and stickers. 
+    "humble shop" is a personalized shopping application that features personal self-designed products, such as shirts, jackets, and stickers. This application will allow customers to browse through various pages of specified items, add items to a cart, and "checkout" with the use of stripe.
+
+<h2> Motivation </h2>
+<hr>
+I created this project to better understand the fundementals of react through a shop-based application. I will be incorporating designing skills to create new "products" that would act as clothing I would personally like to sell.
+
+<h2> Screenshots </h2>
+<hr>
+
+<h2> Tech/framework used </h2>
+<hr>
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 What are the main installs?
     This react project will include mainly redux, axios, bootstrap, react-router and redux-promise-middleware for the frontend Development. For the backend development: express, body-parser, express-session and massive. 
@@ -13,16 +25,22 @@ What are the main installs?
     Bootstrap will be featured mainly in the cart component, allowing for small pop-ups about the product, etc.
     react-router will allow the react app to switch between various pages effortlessly, skiipping loading times and allowing the site to flow smoothly.
 
-What problems does the site solve?
+<h2> Features </h2>
+<hr>
+
+<h4> What problems does the site solve? </h4>
+<h4> What is the target audience? </h4>
+<h4> What are the main components/ component tree? </h4>
+<h4> What are the main endpoints for the backend server? Include REST endpoints here. </h4>
 
 
-What is the target audience?
 
 
-What are the main components/ component tree?
 
 
-What are the main endpoints for the backend server? Include REST endpoints here.
+
+
+
 
 
 
